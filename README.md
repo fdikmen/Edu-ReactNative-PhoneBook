@@ -3,6 +3,8 @@
 
 This application is a simple user list app built with React Native and TypeScript. <br/>
 <img src="./Img/App.png" alt="App Screenshot" height="500">
+[![ALTERNATIVE_TEXT](http://img.youtube.com/vi/I09ZHvZeaYE/0.jpg)](http://www.youtube.com/watch?v=I09ZHvZeaYE "VIDEO_TITLE")
+
 
 ## Features
 
